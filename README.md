@@ -11,3 +11,4 @@ Will have everything listed internally.
 # Version 2
 I will attempt to list everything to Mavely's External Rest API
 
+What bugs me is that I know that the reason I'm having trouble with the backend is largely due to my lack of recent experience with it. React Native is easy enough now that I'm used to writing Design Code with it. 
