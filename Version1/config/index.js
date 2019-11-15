@@ -1,0 +1,1 @@
+export const NETWORK_INTERFACE = 'http://35.232.31.15:4000/'
